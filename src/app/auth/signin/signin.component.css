@@ -1,0 +1,6 @@
+::-webkit-input-placeholder { color: #B4BBCB; }
+
+.txt-input:focus{
+  outline: none;
+  box-shadow: none;
+}
